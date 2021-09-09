@@ -8,3 +8,8 @@ Curso de Pruebas unitarias con Jest
 
 > Shallow permite traer elementos y probarlos como una unidad. Es útil cuando solo necesito algo particular de ese componente y no necesito toda su estructura y elementos del DOM
 
+## Snapshots
+- `jest --update` para actualizar
+
+### Dependencias
+- `npm i react-test-renderer -D` Convertir componente a un objeto `json`
