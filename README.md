@@ -13,3 +13,4 @@ Curso de Pruebas unitarias con Jest
 
 ### Dependencias
 - `npm i react-test-renderer -D` Convertir componente a un objeto `json`
+- `npm i jest-fetch-mock -D` mock para trabajar con fetch
