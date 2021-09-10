@@ -18,7 +18,7 @@ exports[`Header Snapshot Comprobar Snapshot de Header 1`] = `
     className="Header-checkout"
   >
     <a
-      href="/checkout"
+      href="/platzi-store-jest/checkout"
       onClick={[Function]}
     >
       <i
