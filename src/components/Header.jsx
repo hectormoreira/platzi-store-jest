@@ -11,7 +11,7 @@ const Header = props => (
       </Link>
     </h1>
     <div className="Header-checkout">
-      <Link to="/checkout">
+      <Link to="/platzi-store-jest/checkout">
         <i className="fas fa-shopping-basket" />
       </Link>
       {props.cart.length > 0 &&
