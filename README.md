@@ -1,6 +1,8 @@
 # platzi-store
 Curso de Pruebas unitarias con Jest
 
+[LIVE DEMO - Platzi Merch](https://hectormoreira.github.io/platzi-store-jest/)
+
 
 ## mount / shallow de `enzine`
 - usas `mount` cuando necesitas el DOM
